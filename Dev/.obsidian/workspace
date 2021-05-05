@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Markdown test.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "7dda852ab5ba637a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Markdown test.md",
+            "file": "PHP/Utils/Проверка composer зависимостей на предмет уязвимостей.md",
             "mode": "preview"
           }
         }
@@ -50,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:",
+                "query": "tag:#security",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown test.md",
+                "file": "PHP/Utils/Проверка composer зависимостей на предмет уязвимостей.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown test.md"
+                "file": "PHP/Utils/Проверка composer зависимостей на предмет уязвимостей.md"
               }
             }
           }
@@ -119,8 +109,8 @@
   },
   "active": "69139993dff098eb",
   "lastOpenFiles": [
-    "Markdown test.md",
     "Untitled.md",
+    "Markdown test.md",
     "DDD/Test 2.md",
     "DDD/Test.md",
     "Test.md",
