@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "PHP/Utils/Проверка composer зависимостей на предмет уязвимостей.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#security",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -109,6 +108,10 @@
   },
   "active": "69139993dff098eb",
   "lastOpenFiles": [
+    "PHP/Utils/Проверка composer зависимостей на предмет уязвимостей.md",
+    "202105061106.md",
+    "202105061105.md",
+    "SoftSkills/Список психологических эффектов, с которыми приходится сталкиваться в своей деятельности IT-архитектору.md",
     "Untitled.md",
     "Markdown test.md",
     "DDD/Test 2.md",
