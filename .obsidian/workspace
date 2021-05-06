@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "f8a17e627e610344",
+    "type": "split",
+    "children": [
+      {
+        "id": "18852a9bf765d7f9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dev/SoftSkills/Список психологических эффектов, с которыми приходится сталкиваться в своей деятельности IT-архитектору.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50c73fcb6d46915a",
+    "type": "split",
+    "children": [
+      {
+        "id": "543ce4009162cd52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "017a1ffddf2261dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea0713a324997bfd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3fea4aa68c79c83",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd3c6713d4ff8ec0",
+    "type": "split",
+    "children": [
+      {
+        "id": "55fa40461d49038a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d57187d16970ed9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dev/SoftSkills/Список психологических эффектов, с которыми приходится сталкиваться в своей деятельности IT-архитектору.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65e9dd46da0adb04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9da407007e6761ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "18852a9bf765d7f9",
+  "lastOpenFiles": [
+    "Dev/SoftSkills/Список психологических эффектов, с которыми приходится сталкиваться в своей деятельности IT-архитектору.md",
+    "Dev/PHP/Utils/Проверка composer зависимостей на предмет уязвимостей.md",
+    "Dev/SoftSkills/Untitled.md",
+    "README.md"
+  ]
+}
